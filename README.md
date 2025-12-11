@@ -1,20 +1,18 @@
-### Introduction
+```markdown
+# 🎨 Blender UI Component Library: Elevate Add-on Development
 
-A forward-looking general-purpose UI component library for comprehensively enhancing Blender add-on development.
+## 📝 Introduction
+A forward-looking general-purpose UI component library dedicated to comprehensively enhancing Blender add-on development. Designed to streamline workflows, boost efficiency, and unlock creative potential, this library empowers developers to build more intuitive, polished, and powerful Blender add-ons—whether for modeling, sculpting, rendering, or beyond.
 
-### Release Date
+## 📅 Release Date
+Expected in mid-2026. Stay tuned for updates!
 
-Expected in mid-2026. Stay tuned.
+## 🤝 Join the Development
+After the official release, submit your work, share ideas, or contribute code anytime. Let’s collaborate to make Blender even better together!
 
-### Join the development
+## 👥 About Us
+A passionate team of developers, designers, and Blender enthusiasts—united by our love for 3D creation since 2018. We’re committed to building tools that empower creators to turn their visions into reality.
 
-Submit your work anytime after we release it. Let's make Blender better together.
-
-### About Us
-
-A group of developers, designers, and adventurers who love Blender (started in 2018)
-
-### Other add-ons we developed
-
-https://extensions.blender.org/author/445/
-
+## 🔌 Other Add-ons We Developed
+Explore our portfolio of practical Blender add-ons, crafted to solve real workflow challenges:  
+🔗 [https://extensions.blender.org/author/445/](https://extensions.blender.org/author/445/)  
